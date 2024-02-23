@@ -12,7 +12,7 @@ app.use(express.json())
 
 // automotive
 // vOn5015Hu4mtEgJJ
-// https://automotive-server-amber.vercel.app
+// 
 // https://miro.medium.com/v2/resize:fit:720/format:webp/0*55K3702CaKaC9A8K.png
 
 
